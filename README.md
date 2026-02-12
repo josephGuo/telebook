@@ -55,3 +55,7 @@ Use following instructions
 - 😎 [Awesome List](./docs/Awesome.md) - list of resources that can be useful when building your own Telegram Mini App
 
 Feel free to [Open Issue](https://github.com/neSpecc/telebook/issues/new) with your question or suggestion
+
+## Author
+
+https://t.me/peter_codex
